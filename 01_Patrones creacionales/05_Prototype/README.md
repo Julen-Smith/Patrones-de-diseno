@@ -1,0 +1,1 @@
+Permite copiar o clonar un objeto sin necesidad de que nuestro código dependa de sus clases.

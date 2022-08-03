@@ -1,0 +1,1 @@
+Permite guardar y restaurar a un estado previo un objeto sin necesdiad de revelar los detalles de su implementación.

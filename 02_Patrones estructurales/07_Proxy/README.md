@@ -1,0 +1,1 @@
+Es un objeto que actúa como una versión simplificzda del original. Un proxy controla en acceso al objeto original, lo que nos permite realizar algunas tareas antes o después deacceder a dicho objeto. Este patrón suele utilizarse en la conexiones a internet, el acceso a los ficheros del dispositivo, etc. Es decir procesos costosos, y permite reducir el coste y la complejidad.

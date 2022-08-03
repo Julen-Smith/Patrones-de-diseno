@@ -1,0 +1,1 @@
+Permite a un objeto cambiar su comportamiento cuando cambia su estado interno. Da la impresión de que hubiera cambiado su clase.

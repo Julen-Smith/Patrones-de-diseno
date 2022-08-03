@@ -1,0 +1,1 @@
+Transforma una petición en un objeto que encapsula la acción y la información que necesita para ejecutarla.

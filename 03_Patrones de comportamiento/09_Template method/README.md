@@ -1,0 +1,1 @@
+Este patrón define el esqueleto de una algoritmo en una superclase, pero permite a las subclases redefinir algunois métodos sin cambiar su estrucutra.

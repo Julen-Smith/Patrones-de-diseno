@@ -1,0 +1,1 @@
+Proporciona una interfaz que permite crear objectos en una superclase, pero delega su implementación y alteración de los objectos en las subclases.

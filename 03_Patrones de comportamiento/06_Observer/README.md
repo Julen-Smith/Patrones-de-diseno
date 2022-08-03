@@ -1,0 +1,1 @@
+Permite establecer un mecanismo de suscripción para notificar a diferentes objetos de los eventos que se producen en el objeto que observan.

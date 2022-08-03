@@ -1,0 +1,1 @@
+Permite crear objetos con estructura en forma de árbol, y luego trabajar con dichas estructuras como si fueran objetos individuales. En este caso todos los elementos de la estructura utilizan la misma interfaz.

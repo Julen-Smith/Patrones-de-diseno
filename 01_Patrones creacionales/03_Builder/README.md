@@ -1,0 +1,1 @@
+Permite construir objetos complejos paso a paso, separando la creación de dicho objeto de su estructura. De esta forma podemos utilizar el mismo proceso de construcción para obtener diferentes tipos y representaciones de un objecto.

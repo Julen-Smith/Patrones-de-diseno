@@ -1,0 +1,1 @@
+Este patrón asegura que una clase solo tiene una instancia posible, a la cual se puede acceder de forma global.

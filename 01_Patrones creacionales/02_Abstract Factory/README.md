@@ -1,0 +1,1 @@
+Proporciona una interfaz que permite generar grupos de objectos relacionados, pero sin especificar sus clases concretas ni su implementación.

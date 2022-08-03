@@ -1,0 +1,1 @@
+Restringe las comunicaciones directas entre objetos y fuerza la comunicación a través de un único objeto, que actúa de mediador.

@@ -1,0 +1,1 @@
+Permite definir que, de una familia de algoritmos, podamos seleccionar uno de ellos en tiempo de ejecución para realizar cierta acción.

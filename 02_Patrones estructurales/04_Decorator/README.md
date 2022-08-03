@@ -1,0 +1,1 @@
+Este patrón permite añadir nuevas funcionalidades a un objeto (introuciendo este objeto en un ‘envoltorio’ que contiene las nuevas funcionaliades) sin modificar el comportamiento de objetos del mismo tipo.

@@ -1,0 +1,1 @@
+Se trata de un patrón que, dado un lenguaje, define una representación para su gramática y el mecanismo para evaluarla.- Iterator. Permite circular a través de los elementos de una colección sin exponer su representación (listas, pilas, árbol…).

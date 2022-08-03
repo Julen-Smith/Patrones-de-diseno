@@ -1,0 +1,1 @@
+Proporciona una interza simplificada a una estructura compleja (como una librería o un conjunto cmplejo de clases).

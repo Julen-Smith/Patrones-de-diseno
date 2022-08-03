@@ -1,0 +1,1 @@
+Se trata de un patrón estrucutural que permite colaborar entre sí a dos objetos con interfaces incompatibles, mediante un intermediaroi con el que se comunican e interactúan.

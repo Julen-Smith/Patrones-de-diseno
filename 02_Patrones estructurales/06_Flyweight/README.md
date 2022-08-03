@@ -1,0 +1,1 @@
+Se trata de un patrón que permite ahorrar memoria RAM, ya que hace que muchos objetos compartan propiedades comunes en un mismo objeto, en vez de mantener estas propiedades en todos y cada uno de los objetos.

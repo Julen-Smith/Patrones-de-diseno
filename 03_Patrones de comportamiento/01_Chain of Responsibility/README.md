@@ -1,0 +1,1 @@
+Permite pasar peticiones a través de una cadena de receptores. Cada uno de estos receptores puede procesar la petición o pasársela al siguiente. De esta forma se desacopla al emisor del receptor final de la petición original.

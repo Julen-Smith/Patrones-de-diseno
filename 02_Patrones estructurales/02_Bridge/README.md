@@ -1,0 +1,1 @@
+En este patrón se desacopla una abstracción de su implementación, de forma que puedan evolucionar independientemente.
