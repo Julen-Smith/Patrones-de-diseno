@@ -11,3 +11,5 @@ Patrones estructurales
 Patrones creacionales
 
 Patrones de comportamiento
+
+![alt text](https://profile.es/wp-content/media/Patrones-de-diseno-de-software.png)
