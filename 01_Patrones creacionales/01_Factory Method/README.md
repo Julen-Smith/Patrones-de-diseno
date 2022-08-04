@@ -1,1 +1,3 @@
-Proporciona una interfaz que permite crear objectos en una superclase, pero delega su implementación y alteración de los objectos en las subclases.
+
+
+El patrón Factory Method define un método que debe utilizarse para crear objetos, en lugar de una llamada directa al constructor (operador new). Las subclases pueden sobrescribir este método para cambiar las clases de los objetos que se crearán.
