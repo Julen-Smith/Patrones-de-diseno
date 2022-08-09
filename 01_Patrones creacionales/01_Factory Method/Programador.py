@@ -1,5 +1,4 @@
 from __future__ import annotations
-from abc import ABC,abstractmethod
 from Programa import *
 
 class Programador(ABC):

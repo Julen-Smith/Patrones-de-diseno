@@ -7,4 +7,3 @@ if __name__ == "__main__":
 	Programador_junior()
 	print("\n")
 	Programador_senior()
-	#print("\n")
