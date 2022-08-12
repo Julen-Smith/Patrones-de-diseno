@@ -1,4 +1,6 @@
-class Singleton:
+from Singleton_Meta import *
 
-    def __init__(self):
+
+class Singleton(metaclass=SingletonMeta):
+    def operación_chorra(self):
         pass
