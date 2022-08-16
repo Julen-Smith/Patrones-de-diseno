@@ -1,4 +1,4 @@
-from Estudiante import *
+from Estudiante import Estudiante42
 
 if __name__ == '__main__':
     print("Inicio del programa \n")
@@ -14,3 +14,4 @@ if __name__ == '__main__':
 
     EstudianteNini = Estudiante42("BOB", "Jaja", 999, 999)
     EstudianteNini.acción_estudiantil(EstudianteNini)
+

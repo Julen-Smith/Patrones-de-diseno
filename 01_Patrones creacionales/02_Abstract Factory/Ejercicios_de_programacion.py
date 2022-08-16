@@ -1,4 +1,3 @@
-from Estudiante import *
 from Fabrica_de_ejercicios import *
 
 
@@ -15,7 +14,7 @@ class EjerciciosDeProgramación(FábricaDeEjercicios):
         print(estudiante.name + " ha empezado con la búsqueda de información en Stack overflow")
 
     def planificación(self, estudiante) -> any:
-        print(estudiante.name + " ha empezado con la planificación de la Minishell")
+        print(estudiante.name + " ha empezado con la planificación de la Mini shell")
 
     def trabajo(self, estudiante) -> any:
         if estudiante.constancia < 50:
@@ -28,4 +27,3 @@ class EjerciciosDeProgramación(FábricaDeEjercicios):
             print("El estudiante no ha aprobado el examRank09")
         else:
             print("El estudiante ha aprobado el examRank09")
-

@@ -1,5 +1,5 @@
 from Ejercicios_de_matematicas import *
-from Ejercicios_de_programación import *
+from Ejercicios_de_programacion import *
 
 
 class Estudiante42(EjerciciosDeMatemáticas, EjerciciosDeProgramación):

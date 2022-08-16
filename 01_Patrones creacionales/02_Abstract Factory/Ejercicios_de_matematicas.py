@@ -1,4 +1,3 @@
-from Estudiante import *
 from Fabrica_de_ejercicios import *
 
 
