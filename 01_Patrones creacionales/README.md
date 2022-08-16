@@ -3,10 +3,9 @@
 Los Patrones creacionales son aquellos que nos permiten crean objetos. Estos patrones encapsulan el procedimiento de creación de un objecto y suelen trabajar mediante interfaces:
 
 Es posible también encontrarte como me ha pasado a mí con que algunos de los patrones de diseño se parecen mucho unos a otros, pero realmente no es así, son pequeños matices los que las diferencian.
-Similitudes
-Diferencias entre factory method y abstract method
 
 ## Factory Method :
+
 
 1 - Define una clase abstracta o interface para que sus subclases creen objetos que extienden de la misma clase base.\
 \
@@ -18,7 +17,9 @@ Diferencias entre factory method y abstract method
 \
 5 - Caso de uso: Crear un objeto que tiene muchas dependencias o configuración que debe hacerse al inicializarlo, o en donde hay diferentes formas o algoritmos para crear le objeto. \
 
-## Abstract Method :
+
+## Abstract Factory :
+
 
 1 - Define una clase abstracta o interface para que sus subclases creen objetos que pertenecen a una familia de diferentes objetos relacionados entre sí.\
 \
