@@ -16,15 +16,18 @@ Diferencias entre factory method y abstract method
 \
 4 - Cada fábrica concreta se especializa en crear solo un tipo concreto de objeto. \
 \
-5 - Caso de uso: Crear un objeto que tiene muchas dependencias o configuración que debe hacerse al inicializarlo, o en donde hay diferentes formas o algoritmos para crear le objeto.\
-\
+5 - Caso de uso: Crear un objeto que tiene muchas dependencias o configuración que debe hacerse al inicializarlo, o en donde hay diferentes formas o algoritmos para crear le objeto. \
 
 ## Abstract Method :
 
-1 - Define una clase abstracta o interface para que sus subclases creen objetos que pertenecen a una familia de diferentes objetos relacionados entre sí. \
+1 - Define una clase abstracta o interface para que sus subclases creen objetos que pertenecen a una familia de diferentes objetos relacionados entre sí.\
+\
 2 - Es una fábrica de fábricas, los objetos específicos son creados por una o más clases concretas que extienden de la clase abstracta. \
+\
 3 - Cada fábrica se especializa en crear un tipo de objeto. \
+\
 4 - Una fábrica generalizada contiene una o más fábricas especializadas donde cada una produce un tipo concreto de objeto. \
-5 - Caso de uso: Crear múltiples objetos de distintos tipos pero que tienen una relación o dependencia con otros; esto es, crear una familia de objetos. 
+\
+5 - Caso de uso: Crear múltiples objetos de distintos tipos pero que tienen una relación o dependencia con otros; esto es, crear una familia de objetos.
 
 
