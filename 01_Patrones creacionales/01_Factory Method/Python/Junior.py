@@ -1,6 +1,7 @@
 from Programador import *
 from Front import *
 
+
 class Programador_junior (Programador):
 	
 	tipo_de_programador = ""
